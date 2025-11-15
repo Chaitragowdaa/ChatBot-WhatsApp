@@ -1,0 +1,19 @@
+used tools:
+JDK 17 
+Spring Boot	Framework
+Maven	Build tool 
+ngrok	
+Meta Developer Account	
+VS Code
+
+Project creation:
+go to spring boot website
+fill in ->project name,language,file name and add dependencies
+generate the file and extract the zip file 
+add code for WhatsAppBotApplication.java
+add code for controller/WebhookController.java
+add code for service/WhatsAppService.java
+run the maven 
+run the springboot
+start ngrok
+set up the meta API
